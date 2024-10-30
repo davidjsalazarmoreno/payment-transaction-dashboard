@@ -9,7 +9,7 @@ $ npm i
 
 ## Start
 
-``sh
+```sh
 $ npm run dev
 ```
 
